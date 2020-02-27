@@ -499,6 +499,6 @@
 <distributionManagement>
   <repository>
     <id>releases</id>
-    <url>http://34.74.43.193:8081/nexus/content/repositories/releases</url>
+    <url>http://3.226.239.64:8081/nexus/#view-repositories;releases~browsestorage</url>
   </repository>
 </distributionManagement>
